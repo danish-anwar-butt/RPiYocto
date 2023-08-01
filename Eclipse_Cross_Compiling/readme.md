@@ -10,9 +10,7 @@
    
 4. Download Eclipse Luna with C/C++ from here: [eclipse luna]https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/2021-06/R/eclipse-cpp-2021-06-R-linux-gtk-x86_64.tar.gz
 
-5. Install Yocto ADT plug-in in Eclipse IDE
-5.1. Chose "Install New Software" from the "Help" pull-down menu.
-5.2. Install follwoing tools:
+5. Install Yocto ADT plug-in in Eclipse IDE. Chose "Install New Software" from the "Help" pull-down menu. Install follwoing tools:
 * C/C++ Remote Launch (Requires RSE Remote System Explorer)
 * Remote System Explorer End-user Runtime
 * Remote System Explorer User Actions
