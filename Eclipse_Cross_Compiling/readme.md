@@ -84,3 +84,6 @@ Click "Ok" and then chose this new repository on the "Work with" drop-down menu 
 29. Optionally you can verify the remote application on target and run manually there.
     ![AppMaullyRun](SS/AppMaullyRun.png)
 
+[Ref.1] https://community.nxp.com/t5/i-MX-Processors-Knowledge-Base/Setting-up-the-Eclipse-IDE-for-Yocto-Application-Development/ta-p/1110480
+[Ref. 2] https://variwiki.com/index.php?title=Yocto_Programming_with_Eclipse_v2
+[Ref. 3] https://variwiki.com/index.php?title=Yocto_Toolchain_installation&release=RELEASE_DUNFELL_V1.5_DART-MX8M-MINI
